@@ -104,3 +104,23 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+Fungus/.vsconfig
+Fungus/Assembly-CSharp.csproj
+Fungus/Fungus.sln
+Fungus/.vs/Fungus/project-colors.json
+Fungus/.vs/Fungus/FileContentIndex/21a49f47-2ded-48a7-a9e2-4ac272791f4b.vsidx
+Fungus/.vs/Fungus/FileContentIndex/3cc17768-ab6e-4024-ab1f-c82331dacd29.vsidx
+Fungus/.vs/Fungus/FileContentIndex/8b6e8ab7-f393-4218-aab4-5c131ac8137e.vsidx
+Fungus/.vs/Fungus/FileContentIndex/a0396cc7-b37b-474e-a7eb-920b88d6ca16.vsidx
+Fungus/.vs/Fungus/FileContentIndex/read.lock
+Fungus/.vs/Fungus/v17/.suo
+Fungus/Library/
+Fungus/Logs/
+Fungus/obj/
+Fungus/UserSettings/
+*.sln
+*.suo
+Fungus/Temp/
+Fungus/.vs/
+Fungus/Assets/TextMesh Pro
